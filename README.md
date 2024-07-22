@@ -18,5 +18,7 @@
 
 💾 Работа с данными:
 
+![MySQL](https://img.shields.io/badge/-mysql-090909?style=for-the-badge&logo=mysql)
+
 ✏️ Работа с кодом:
 
