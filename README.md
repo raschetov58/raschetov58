@@ -6,7 +6,7 @@
 
 ![vkontakte](https://img.shields.io/badge/-vkontakte-090909?style=for-the-badge&logo=vk&logoColor=4F7DB3)
 
-📁 Тестовая документация:
+📁 Управление проектами:
 
 ![Redmine](https://img.shields.io/badge/-Redmine-090909?style=for-the-badge&logo=Redmine&logoColor=a20000)
 
