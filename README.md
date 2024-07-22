@@ -8,6 +8,9 @@
 
 📁 Тестовая документация:
 
+![Redmine](https://img.shields.io/badge/-Redmine-090909?style=for-the-badge&logo=Redmine&logoColor=a20000)
+
+
 🛠 Тестирование веб-приложений:
 
 ![Postman](https://img.shields.io/badge/-Postman-090909?style=for-the-badge&logo=postman)
