@@ -22,3 +22,4 @@
 
 ✏️ Работа с кодом:
 
+![Visual Studio Code](https://img.shields.io/badge/-VSC-090909?style=for-the-badge&logo=code)
